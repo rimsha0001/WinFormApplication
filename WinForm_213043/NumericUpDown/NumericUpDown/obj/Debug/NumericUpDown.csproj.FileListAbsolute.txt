@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe.config
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.exe
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\bin\Debug\NumericUpDown.pdb
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Form1.resources
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.Properties.Resources.resources
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.exe
+C:\Users\HP\source\repos\NumericUpDown\NumericUpDown\obj\Debug\NumericUpDown.pdb

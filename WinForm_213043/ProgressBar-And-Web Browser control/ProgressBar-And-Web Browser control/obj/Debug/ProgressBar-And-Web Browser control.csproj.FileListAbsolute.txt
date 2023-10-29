@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\bin\Debug\ProgressBar-And-Web Browser control.exe.config
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\bin\Debug\ProgressBar-And-Web Browser control.exe
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\bin\Debug\ProgressBar-And-Web Browser control.pdb
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar-And-Web Browser control.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar_And_Web_Browser_control.Form1.resources
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar_And_Web_Browser_control.Properties.Resources.resources
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar-And-Web Browser control.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar-And-Web Browser control.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar-And-Web Browser control.exe
+C:\Users\HP\source\repos\ProgressBar-And-Web Browser control\ProgressBar-And-Web Browser control\obj\Debug\ProgressBar-And-Web Browser control.pdb

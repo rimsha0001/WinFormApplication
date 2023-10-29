@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\first_app\first_app\bin\Debug\first_app.exe.config
+C:\Users\HP\source\repos\first_app\first_app\bin\Debug\first_app.exe
+C:\Users\HP\source\repos\first_app\first_app\bin\Debug\first_app.pdb
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.Form1.resources
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.Properties.Resources.resources
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.exe
+C:\Users\HP\source\repos\first_app\first_app\obj\Debug\first_app.pdb

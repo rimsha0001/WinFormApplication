@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\bin\Debug\Web Browser Control.exe.config
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\bin\Debug\Web Browser Control.exe
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\bin\Debug\Web Browser Control.pdb
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web Browser Control.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web_Browser_Control.Form1.resources
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web_Browser_Control.Properties.Resources.resources
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web Browser Control.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web Browser Control.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web Browser Control.exe
+C:\Users\HP\source\repos\Web Browser Control\Web Browser Control\obj\Debug\Web Browser Control.pdb

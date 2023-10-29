@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\bin\Debug\Radio-check Button.exe.config
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\bin\Debug\Radio-check Button.exe
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\bin\Debug\Radio-check Button.pdb
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio-check Button.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio_check_Button.Form1.resources
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio_check_Button.Properties.Resources.resources
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio-check Button.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio-check Button.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio-check Button.exe
+C:\Users\HP\source\repos\Radio-check Button\Radio-check Button\obj\Debug\Radio-check Button.pdb

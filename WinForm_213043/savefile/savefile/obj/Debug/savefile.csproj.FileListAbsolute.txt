@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.Form1.resources
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.Properties.Resources.resources
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\savefile\savefile\bin\Debug\savefile.exe.config
+C:\Users\HP\source\repos\savefile\savefile\bin\Debug\savefile.exe
+C:\Users\HP\source\repos\savefile\savefile\bin\Debug\savefile.pdb
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.exe
+C:\Users\HP\source\repos\savefile\savefile\obj\Debug\savefile.pdb

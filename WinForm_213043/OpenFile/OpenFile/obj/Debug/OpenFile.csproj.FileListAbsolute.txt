@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\OpenFile\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\HP\source\repos\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\HP\source\repos\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\HP\source\repos\OpenFile\OpenFile\obj\Debug\OpenFile.pdb

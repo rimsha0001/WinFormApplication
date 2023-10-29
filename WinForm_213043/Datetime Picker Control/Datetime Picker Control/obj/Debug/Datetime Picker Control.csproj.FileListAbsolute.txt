@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\bin\Debug\Datetime Picker Control.exe.config
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\bin\Debug\Datetime Picker Control.exe
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\bin\Debug\Datetime Picker Control.pdb
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime Picker Control.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime_Picker_Control.Form1.resources
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime_Picker_Control.Properties.Resources.resources
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime Picker Control.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime Picker Control.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime Picker Control.exe
+C:\Users\HP\source\repos\Datetime Picker Control\Datetime Picker Control\obj\Debug\Datetime Picker Control.pdb

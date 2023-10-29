@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder browser.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder_browser.Form1.resources
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder_browser.Properties.Resources.resources
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder browser.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder browser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\folder browser\folder browser\bin\Debug\folder browser.exe.config
+C:\Users\HP\source\repos\folder browser\folder browser\bin\Debug\folder browser.exe
+C:\Users\HP\source\repos\folder browser\folder browser\bin\Debug\folder browser.pdb
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder browser.exe
+C:\Users\HP\source\repos\folder browser\folder browser\obj\Debug\folder browser.pdb

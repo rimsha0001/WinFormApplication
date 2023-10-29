@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\bin\Debug\COMBO-BOX.exe.config
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\bin\Debug\COMBO-BOX.exe
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\bin\Debug\COMBO-BOX.pdb
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO-BOX.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO_BOX.Form1.resources
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO_BOX.Properties.Resources.resources
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO-BOX.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO-BOX.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO-BOX.exe
+C:\Users\HP\source\repos\COMBO-BOX\COMBO-BOX\obj\Debug\COMBO-BOX.pdb
